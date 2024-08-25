@@ -15,7 +15,7 @@ A web application to upload and view LAS files using React, Next.js, MongoDB, No
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/las-viewer.git
+   git clone https://github.com/Iamvivek-gupta/AeroAstroDroneServerLasViewer
    cd las-viewer
    ```
 
